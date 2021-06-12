@@ -1,7 +1,7 @@
 # Webpack seed
 
-1. "clean-webpack-plugin": "\*",
-2. "copy-webpack-plugin": "^9.0.0",
+⋅⋅* "clean-webpack-plugin": "\*",
+⋅⋅* "copy-webpack-plugin": "^9.0.0",
 "css-loader": "^5.2.6",
 "fork-ts-checker-webpack-plugin": "^6.2.10",
 "html-webpack-plugin": "^5.3.1",
