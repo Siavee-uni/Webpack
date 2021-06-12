@@ -1,6 +1,6 @@
-Webpack seed
+# H1 Webpack seed
 
-"clean-webpack-plugin": "\*",
+⋅⋅⋅ "clean-webpack-plugin": "\*",
 "copy-webpack-plugin": "^9.0.0",
 "css-loader": "^5.2.6",
 "fork-ts-checker-webpack-plugin": "^6.2.10",
