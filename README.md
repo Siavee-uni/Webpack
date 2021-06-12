@@ -1,6 +1,6 @@
 # Webpack seed
 
-#### devDependencies
+#### devDependencies:
 
 - "clean-webpack-plugin": "\*",
 - "copy-webpack-plugin": "^9.0.0",
